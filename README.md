@@ -1,4 +1,4 @@
-# Captain-of-Industry-COI-Tweaks
+# COI-Tweaks
 
 ## Overview
 
