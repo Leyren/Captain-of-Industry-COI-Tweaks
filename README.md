@@ -31,14 +31,19 @@ Comes with 3 modes:
 
 ### Config Tweaks
 ConfigTweaks overwrites internal fields to tweak certain game properties. (e.g. Pillar support radius)
+
 **NOTE**: Use at your own risk - these fields are not intended to be modified, and some things may break or not work properly due to that
+
 **NOTE**: If you want to start a new game WITHOUT these tweaks, RESTART YOUR GAME. The overrides apply throughout your entire game session, even if you start a new game with the mod disabled!
 
 All config tweaks are located and explained in the `coitweaks_config.ini` file
 
-Examples:
+#### Examples:
+
 Modified Max Pillar Height:
+
 ![configtweaks_maxpillarheight](COITweaks/demo/configtweaks_maxpillarheight.png)
 
 Modified Support Radius:
+
 ![configtweaks_supportradius](COITweaks/demo/configtweaks_supportradius.png)
