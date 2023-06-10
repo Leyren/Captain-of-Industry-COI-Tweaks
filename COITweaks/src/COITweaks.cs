@@ -17,7 +17,7 @@ namespace COITweaks
 
         public string Name => "COITweaks";
 
-        public int Version => 1;
+        public int Version => 2;
 
 
         // Mod constructor that lists mod dependencies as parameters.

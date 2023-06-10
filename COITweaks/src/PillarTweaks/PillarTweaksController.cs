@@ -382,6 +382,8 @@ namespace COITweaks
 
         public ControllerConfig Config => ControllerConfig.GameMenu;
 
+        public bool DeactivateShortcutsIfNotVisible => true;
+
         public event Action<IToolbarItemInputController> VisibilityChanged;
 
         private class InternalToolbox : Toolbox, IUnityUi
